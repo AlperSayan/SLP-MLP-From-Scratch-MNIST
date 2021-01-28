@@ -28,3 +28,5 @@ accuracy values for each epoch on both training and test datasets.
 
 c) Report the confusion matrices for both training and test datasets using the predictions
 with the highest accuracy obtained during training.
+
+download the dataset from http://yann.lecun.com/exdb/mnist/
